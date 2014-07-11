@@ -12,6 +12,7 @@
     <modules>
         <module>log4jHelloWorldExample</module>
         <module>Log4jWithSpring</module>
+        <module>SpringMVClog4jIntegration</module>
     </modules>
 
 </project>
